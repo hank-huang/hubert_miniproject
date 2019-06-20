@@ -1,0 +1,24 @@
+sklearn to build the following models:
+
+1. OLS
+2. LDA
+3. QDA
+4. SVM
+5. KNN
+6. RandoForest
+7. NN Models (SNN)?
+
+10x Cross Validated
+report :
+1. Balanced Accuracy
+2. Sensitivity
+3. Specificity
+4. F1 Score
+
+Plot:
+receiver operating characteristic figures (for all models)
+
+
+THEN
+
+run pca on features and redo
